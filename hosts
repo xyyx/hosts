@@ -4928,7 +4928,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s29.sitemeter.com
 0.0.0.0 s2.statcounter.com
 0.0.0.0 s2trade.mtxcapital.com
-0.0.0.0 s2.youtube.com
 0.0.0.0 s30.sitemeter.com
 0.0.0.0 s31.sitemeter.com
 0.0.0.0 s32.sitemeter.com
@@ -5176,7 +5175,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 superstats.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.clickonometrics.pl
-0.0.0.0 s.youtube.com  # Blocking this will interfere with video watching history
 0.0.0.0 systweak.com
 #0.0.0.0 t2.hulu.com		# Uncomment to block Hulu.
 0.0.0.0 tag.crsspxl.com
