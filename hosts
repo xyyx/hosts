@@ -3644,9 +3644,6 @@ ff02::3 ip6-allhosts
 # [alicdn.com]
 0.0.0.0 gma.alicdn.com
 
-# [aliexpress.com]
-0.0.0.0 s.click.aliexpress.com
-
 # [aliyun.com]
 0.0.0.0 acjs.aliyun.com
 
