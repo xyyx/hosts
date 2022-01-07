@@ -78311,7 +78311,6 @@ ff02::3 ip6-allhosts
 # [Amazon.com][AS39111][46.51.128.0 - 46.51.191.255]
 0.0.0.0 dcinfos.abtasty.com
 0.0.0.0 go.affec.tv
-0.0.0.0 www.smartredirect.de
 # [Amazon.com][AS16509][50.112.0.0 - 50.112.255.255]
 # [Amazon.com][AS14618][50.16.0.0 - 50.19.255.255]
 0.0.0.0 web-t.9gag.com  #[Piwik.Analytics]
