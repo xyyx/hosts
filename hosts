@@ -2719,7 +2719,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sspapi.admicro.vn
 
 # [admitad.com]
-0.0.0.0 admitad.com
 0.0.0.0 fonts.ad.admitad.com
 
 # [admixer.co.kr]
@@ -103802,7 +103801,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-tech.com
 0.0.0.0 ad-up.com
 0.0.0.0 ad.abctv.com
-0.0.0.0 ad.admitad.com
 0.0.0.0 ad.allboxing.ru
 0.0.0.0 ad.allstar.cz
 0.0.0.0 ad.anuntis.com
